@@ -1,0 +1,46 @@
+baseURL = 'https://btech-cse-5th-sem-syllabus.netlify.app'
+languageCode = 'en-us'
+title = 'BTech CSE 5th sem syllabus'
+theme = "hugo-theme-shell"
+
+[Params]
+  
+  description = "BTech CSE 5th sem syllabus"
+  [Params.Terminal]
+
+  schema = "monokai"
+
+  
+  userName = "hdmtp"
+  pcName = "laptop"
+  workDir = "syllabus"
+  profile = "syllabus.txt"
+
+  
+  ps1Delay = 0 
+  stdoutDelay = 0 
+  commandDelay = 50 
+
+  
+  titleDelay = 0 # title speed : "title" in front matter
+  contentDelay = 0 # content speed : content in .md file
+
+
+  description = """
+  Hi I am hDmtP.
+  This is the syllabus of my current sem.
+  
+  """
+
+  [Params.Tree]
+  use = true
+  folderName = "syllabus"
+  files = [ 
+    ["ESC501", "/posts/esc501.md"],
+    ["PCC-CS501", "/posts/pcc-cs501.md"],
+    ["PCC-CS502", "/posts/pcc-cs502.md"],
+    ["PCC-CS503", "/posts/pcc-cs503.md"],
+    ["HSMC501", "/posts/hsmc501.md"],
+    ["PEC-IT501B", "/posts/pec-it501b.md"],
+  ]
+

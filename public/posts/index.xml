@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BTech CSE 5th sem syllabus</title>
+    <link>https://btech-cse-5th-sem-syllabus.netlify.app/posts/</link>
+    <description>Recent content in Posts on BTech CSE 5th sem syllabus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Sep 2022 14:41:14 +0530</lastBuildDate><atom:link href="https://btech-cse-5th-sem-syllabus.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pec-it501b/</link>
+      <pubDate>Thu, 01 Sep 2022 14:41:14 +0530</pubDate>
+      
+      <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pec-it501b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Industrial Management (Humanities III)</title>
+      <link>https://btech-cse-5th-sem-syllabus.netlify.app/posts/hsmc501/</link>
+      <pubDate>Thu, 01 Sep 2022 14:40:27 +0530</pubDate>
+      
+      <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/hsmc501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Oriented Programming</title>
+      <link>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pcc-cs503/</link>
+      <pubDate>Thu, 01 Sep 2022 14:38:50 +0530</pubDate>
+      
+      <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pcc-cs503/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operating Systems</title>
+      <link>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pcc-cs502/</link>
+      <pubDate>Thu, 01 Sep 2022 14:37:27 +0530</pubDate>
+      
+      <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pcc-cs502/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiler Design</title>
+      <link>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pcc-cs501/</link>
+      <pubDate>Thu, 01 Sep 2022 14:36:17 +0530</pubDate>
+      
+      <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pcc-cs501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>https://btech-cse-5th-sem-syllabus.netlify.app/posts/esc501/</link>
+      <pubDate>Thu, 01 Sep 2022 14:31:03 +0530</pubDate>
+      
+      <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/esc501/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
