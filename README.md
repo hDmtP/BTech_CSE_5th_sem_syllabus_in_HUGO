@@ -28,8 +28,8 @@ schema = "monokai"
 - [x] Link each subjects to their own static files
 - [x] Deploy it on Netifly through drag-drop
 - [ ] Deploy it on Netifly through this git repo (Problem: Netlify is demanding too much power over my account)
-- [ ] Learn more markdown (xml) tips & techniques for hugo
-- [ ] Write the syllabus in markdown
+- [x] Learn more markdown (xml) tips & techniques for hugo
+- [x] Write the syllabus in markdown
 
 <br>
 <br>

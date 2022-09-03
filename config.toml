@@ -28,8 +28,12 @@ theme = "hugo-theme-shell"
 
   description = """
   Hi I am hDmtP.
-  This is the syllabus of my current sem.
   
+  MAKAUT, WB
+  (Formerly WBUT)
+  Syllabus for B.Tech CSE 
+  
+  SEMESTER – V
   """
 
   [Params.Tree]

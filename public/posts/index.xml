@@ -13,16 +13,19 @@
       <pubDate>Thu, 01 Sep 2022 14:41:14 +0530</pubDate>
       
       <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pec-it501b/</guid>
-      <description></description>
+      <description>~/ ~/posts/
+Introduction Overview of Artificial intelligence- Problems of AI, AI technique, Tic - Tac - Toe problem. Intelligent Agents Agents &amp;amp; environment, nature of environment, structure of agents, goal based agents, utility based agents, learning agents. Problem Solving Problems, Problem Space &amp;amp; search: Defining the problem as state space search, production system, problem characteristics, issues in the design of search program
+Search techniques Solving problems by searching :problem solving agents, searching for solutions; uniform search strategies: breadth first search, depth first search, depth limited search, bidirectional search, comparing uniform search strategies.</description>
     </item>
     
     <item>
-      <title>Introduction to Industrial Management (Humanities III)</title>
+      <title>Intro to Industrial Management</title>
       <link>https://btech-cse-5th-sem-syllabus.netlify.app/posts/hsmc501/</link>
       <pubDate>Thu, 01 Sep 2022 14:40:27 +0530</pubDate>
       
       <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/hsmc501/</guid>
-      <description></description>
+      <description>~/ ~/posts/
+Introduction System- concept, definition, types, parameters, variables and behavior. Management – definition and functions. Organization structure: i. Definition. ii. Goals. iii. Factors considered in formulating structure. iv. Types. v. Advantages and disadvantages. vi. Applications. Concept, meaning and importance of division of labor, scalar &amp;amp; functional processes, span of control, delegation of authority, centralization and decentralization in industrial management. Organizational culture and climate – meaning, differences and factors affecting them.</description>
     </item>
     
     <item>
@@ -31,7 +34,12 @@
       <pubDate>Thu, 01 Sep 2022 14:38:50 +0530</pubDate>
       
       <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pcc-cs503/</guid>
-      <description></description>
+      <description>~/ ~/posts/
+Abstract data types and their specification. How to implement an ADT. Concrete state space, concrete invariant, abstraction function. Implementing operations, illustrated by the Text example.
+Features of object-oriented programming. Encapsulation, object identity, polymorphism – but not inheritance.
+Inheritance in OO design. Design patterns. Introduction and classification. The iterator pattern.
+Model-view-controller pattern. Commands as methods and as objects. Implementing OO language features. Memory management.
+Generic types and collections GUIs. Graphical programming with Scale and Swing .</description>
     </item>
     
     <item>
@@ -40,7 +48,12 @@
       <pubDate>Thu, 01 Sep 2022 14:37:27 +0530</pubDate>
       
       <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pcc-cs502/</guid>
-      <description></description>
+      <description>~/ ~/posts/
+Objective To learn the mechanisms of OS to handle processes and threads and their communication
+To learn the mechanisms involved in memory management in contemporary OS
+To gain knowledge on distributed operating system concepts that includes architecture, Mutual exclusion algorithms, deadlock detection algorithms and agreement protocols
+To know the components and management aspects of concurrency management
+Pre-Requisite Computer Organization &amp;amp;Architecture Introduction: Generations of Operating systems, Concept of Operating Systems, Types of Operating Systems, OS Services, System Calls, Structure of an OS - Layered, Monolithic, Microkernel Operating Systems, Concept of Virtual Machine.</description>
     </item>
     
     <item>
@@ -49,7 +62,15 @@
       <pubDate>Thu, 01 Sep 2022 14:36:17 +0530</pubDate>
       
       <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/pcc-cs501/</guid>
-      <description></description>
+      <description>~/ ~/posts/
+Objective To understand and list the different stages in the process of compilation.
+Identify different methods of lexical analysis
+Design top-down and bottom-up parsers
+Identify synthesized and inherited attributes
+Develop syntax directed translation schemes
+Develop algorithms to generate code for a target machine
+Introduction to Compiling Compilers, Analysis of the source program, The phases of the compiler, Cousins of the compiler.
+Lexical Analysis The role of the lexical analyzer, Tokens, Patterns, Lexemes, Input buffering, Specifications of a token, Recognition of a tokens, Finite automata, From a regular expression to an NFA, From a regular expression to NFA, From a regular expression to DFA, Design of a lexical analyzer generator (Lex)</description>
     </item>
     
     <item>
@@ -58,7 +79,11 @@
       <pubDate>Thu, 01 Sep 2022 14:31:03 +0530</pubDate>
       
       <guid>https://btech-cse-5th-sem-syllabus.netlify.app/posts/esc501/</guid>
-      <description></description>
+      <description>~/ ~/posts/
+Overview of System Analysis &amp;amp; Design , Business System Concept, System Development Life Cycle, Waterfall Model , Spiral Model, Feasibility Analysis, Technical Feasibility, Cost- Benefit Analysis, COCOMO model.
+System Design – Context diagram and DFD, Problem Partitioning, Top-Down And Bottom-Up design; Decision tree, decision table and structured English; Functional vs. Object- Oriented approach.
+Coding &amp;amp; Documentation – Structured Programming, OO Programming, Information Hiding, Reuse, System Documentation.
+Testing – Levels of Testing, Integration Testing, Test case Specification, Reliability Assessment, Validation &amp;amp; Verification Metrics, Monitoring &amp;amp; Control.</description>
     </item>
     
   </channel>
