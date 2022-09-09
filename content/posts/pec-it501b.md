@@ -7,7 +7,7 @@ draft: false
 [~/](../../)
 [~/posts/](../)
 
-1. **Introduction**[ ]
+1. **Introduction**[x]
     Overview of Artificial intelligence- Problems of AI, AI technique, Tic - Tac - Toe problem.
     **Intelligent Agents**[ ]
     Agents & environment, nature of environment, structure of agents,
