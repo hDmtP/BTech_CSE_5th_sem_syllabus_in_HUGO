@@ -24,7 +24,7 @@ draft: false
 
 ----
 
-1. [ ]**Introduction**:
+1. [x]**Introduction**:
     Generations
     of Operating
     systems,
@@ -37,10 +37,10 @@ draft: false
     Machine. Case study on UNIX and WINDOWS
     Operating System.
 
-2. [ ]**Processes**: Definition, Process Relationship, Different
+2. [x]**Processes**: Definition, Process Relationship, Different
     states of a Process, Process State transitions, Process
     Control Block (PCB), Context switching
-    [ ]**Thread**: Definition, Various states, Benefits of threads,
+    [x]**Thread**: Definition, Various states, Benefits of threads,
     Types of threads, Concept of multithreads,
     [ ]**Process** Scheduling: Foundation and Scheduling
     objectives, Types of Schedulers, Scheduling criteria:

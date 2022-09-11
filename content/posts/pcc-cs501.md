@@ -23,11 +23,11 @@ draft: false
 
 ----
 
-1. **Introduction to Compiling**[ ]
+1. **Introduction to Compiling**[x]
     Compilers, Analysis of the source program, The
     phases of the compiler, Cousins of the compiler.
 
-2. **Lexical Analysis**[ ]
+2. **Lexical Analysis**[x]
     The role of the lexical analyzer, Tokens, Patterns,
     Lexemes, Input buffering, Specifications of a token,
     Recognition of a
@@ -36,7 +36,7 @@ draft: false
     From a regular expression to DFA, Design of a
     lexical analyzer generator (Lex)
 
-3. **Syntax Analysis**[ ]
+3. **Syntax Analysis**[x]
     The role of a parser, Context free grammars,
     Writing a grammar, Top down Parsing, Non-
     recursive Predictive parsing

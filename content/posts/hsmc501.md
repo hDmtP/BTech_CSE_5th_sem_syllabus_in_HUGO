@@ -7,7 +7,7 @@ draft: false
 [~/](../../)
 [~/posts/](../)
 
-1. **Introduction**[ ]
+1. **Introduction**[x]
     System- concept, definition, types,
     parameters, variables and behavior.
     Management – definition and
@@ -39,7 +39,7 @@ draft: false
 
 2. **Critical Path Method (CPM) and**
     **Programme Evaluation Review**
-    **Technique (PERT)**[ ]:
+    **Technique (PERT)**[x]:
     2.1 CPM & PERT-meaning, features,
     difference, applications. 2.2 Understand
     different terms used in network diagram.
@@ -54,7 +54,7 @@ draft: false
     Crashing of network, updating and
     its applications.
 
-3. **Materials Management**[ ]:
+3. **Materials Management**[x]:
     Material management-definition,
     functions, importance, relationship with
     other departments.

@@ -9,7 +9,7 @@ draft: false
 
 1. **Introduction**[x]
     Overview of Artificial intelligence- Problems of AI, AI technique, Tic - Tac - Toe problem.
-    **Intelligent Agents**[ ]
+    **Intelligent Agents**[x]
     Agents & environment, nature of environment, structure of agents,
     goal based agents, utility based agents, learning agents.
     **Problem Solving**[ ]
@@ -17,7 +17,7 @@ draft: false
     space search, production system, problem characteristics,
     issues in the design of search program
 
-2. **Search techniques**[ ]
+2. **Search techniques**[x]
     Solving problems by searching :problem solving agents, searching for
     solutions; uniform search strategies: breadth first
     search, depth first search, depth limited search,

@@ -7,18 +7,18 @@ draft: false
 [~/](../../)
 [~/posts/](../)
 
-1. [ ]Abstract data types and their specification.
+1. [x]Abstract data types and their specification.
     How to implement an ADT. Concrete
     state space, concrete invariant,
     abstraction function. Implementing
     operations, illustrated by the Text
     example.
 
-2. [ ]Features of object-oriented programming.
+2. [x]Features of object-oriented programming.
     Encapsulation, object identity, polymorphism –
     but not inheritance.
 
-3. [ ]Inheritance in OO design.
+3. [x]Inheritance in OO design.
     Design patterns. Introduction and classification. The
     iterator pattern.
 
